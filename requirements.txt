@@ -1,0 +1,7 @@
+pydantic
+fastapi
+pymongo
+python-jose
+uvicorn
+pytest
+python-multipart
